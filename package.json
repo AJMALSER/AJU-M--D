@@ -1,10 +1,10 @@
 {
-  "name": "SHABAN-MD",
+  "name": "AJU-M--D",
   "version": "5.0.0",
   "description": "A WhatsApp bot created using Node.js",
   "main": "index.js",
   "scripts": {
-    "start": "pm2-runtime index.js --name SHABAN-MD"
+    "start": "pm2-runtime index.js --name AJU-M--D"
   },
   "dependencies": {
     "@whiskeysockets/baileys": "git+https://gitlab.com/amilaKumara/baileys-pmd.git",

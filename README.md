@@ -3,7 +3,7 @@
 <a><img src='https://i.ibb.co/C37nZNgZ/AJU-md.jpg'/></a>
 
 <p align="center">
-  <a href="https://github.com/AJMALSER"><img title="Developer" src="https://img.shields.io/badge/Author-SHABAN%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/AJMALSER"><img title="Developer" src="https://img.shields.io/badge/Author-AJU%20MD-FF00FF.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
